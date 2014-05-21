@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EA5A1EF6-D0F9-41C7-95FA-7C6E19645627</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NumberPad</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DD2F0C07-5169-47FE-AB75-43EC45A9CF1D</key>
+		<string>https://github.com/skylarpeterson/numberpad.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NumberPad.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DD2F0C07-5169-47FE-AB75-43EC45A9CF1D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/skylarpeterson/numberpad.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DD2F0C07-5169-47FE-AB75-43EC45A9CF1D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DD2F0C07-5169-47FE-AB75-43EC45A9CF1D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NumberPad</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -21,6 +21,7 @@
 		5349E52817A88EB800F7E152 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5349E50A17A88EB800F7E152 /* UIKit.framework */; };
 		5349E53017A88EB800F7E152 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5349E52E17A88EB800F7E152 /* InfoPlist.strings */; };
 		5349E53217A88EB800F7E152 /* NumberPadTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5349E53117A88EB800F7E152 /* NumberPadTests.m */; };
+		53E653F317A8BF2E00FEE319 /* NumberPadBrain.m in Sources */ = {isa = PBXBuildFile; fileRef = 53E653F217A8BF2E00FEE319 /* NumberPadBrain.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		5349E52D17A88EB800F7E152 /* NumberPadTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "NumberPadTests-Info.plist"; sourceTree = "<group>"; };
 		5349E52F17A88EB800F7E152 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		5349E53117A88EB800F7E152 /* NumberPadTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NumberPadTests.m; sourceTree = "<group>"; };
+		53E653F117A8BF2E00FEE319 /* NumberPadBrain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NumberPadBrain.h; sourceTree = "<group>"; };
+		53E653F217A8BF2E00FEE319 /* NumberPadBrain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NumberPadBrain.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +120,8 @@
 				5349E51817A88EB800F7E152 /* Main.storyboard */,
 				5349E51B17A88EB800F7E152 /* NumberPadViewController.h */,
 				5349E51C17A88EB800F7E152 /* NumberPadViewController.m */,
+				53E653F117A8BF2E00FEE319 /* NumberPadBrain.h */,
+				53E653F217A8BF2E00FEE319 /* NumberPadBrain.m */,
 				5349E51E17A88EB800F7E152 /* Images.xcassets */,
 				5349E50D17A88EB800F7E152 /* Supporting Files */,
 			);
@@ -251,6 +256,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5349E51D17A88EB800F7E152 /* NumberPadViewController.m in Sources */,
+				53E653F317A8BF2E00FEE319 /* NumberPadBrain.m in Sources */,
 				5349E51317A88EB800F7E152 /* main.m in Sources */,
 				5349E51717A88EB800F7E152 /* NumberPadAppDelegate.m in Sources */,
 			);
@@ -455,6 +461,7 @@
 				5349E53717A88EB800F7E152 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5349E53817A88EB800F7E152 /* Build configuration list for PBXNativeTarget "NumberPadTests" */ = {
 			isa = XCConfigurationList;
@@ -463,6 +470,7 @@
 				5349E53A17A88EB800F7E152 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
